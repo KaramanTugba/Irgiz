@@ -1,0 +1,58 @@
+
+
+
+<section class="call_to_action">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-9 col-sm-8 col-xs-12">
+                <h1>No overtime charges, 7 days a week</h1>
+            </div>end .col-md-9-->
+            <div class="col-md-3 col-sm-4 col-xs-12 text-right cta_responsive_left">
+                <a href="" class="btn-gray">GET A FREE QUOTE</a>
+            </div><!--end .col-md-3-->
+        </div><!--end .row-->
+    </div><!--end .container-->
+</section>end .call_to_action
+-->
+
+307
+
+
+<!--===========================
+        Start CounterUp
+===========================-->
+<section class="counterup_area text-center section_padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="hero-section-title text-center">
+                    <h1>Numbers Speakers.</h1>
+                </div><!--end .hero-section-title-->
+            </div><!--end .col-md-12-->
+            <div class="col-md-4 col-sm-6">
+                <div class="counter_box">
+                   <!-- <img src="assets/images/shape/about-shape.png" class="number_img_shape" alt="Shape">-->
+                    <span class="counter">887</span>
+                    <p>Air Conditioning Repairs and Install</p>
+                </div><!--end .counter_box-->
+            </div><!--end .col-md-4-->
+            <div class="col-md-4 col-sm-6">
+                <div class="counter_box">
+                     <!--<img src="assets/images/shape/about-shape.png" class="number_img_shape" alt="Shape">-->
+                    <span class="counter">476</span>
+                    <p>Air Conditioning Repairs and Install</p>
+                </div><!--end .counter_box-->
+            </div><!--end .col-md-4-->
+            <div class="col-md-4 col-sm-6">
+                <div class="counter_box">
+                    <!--<img src="assets/images/shape/about-shape.png" class="number_img_shape" alt="Shape">-->
+                    <span class="counter">903</span>
+                    <p>Customizers are Satisfied with our Services</p>
+                </div><!--end .counter_box-->
+            </div><!--end .col-md-4-->
+        </div><!--end .row-->
+    </div><!--end .container-->
+</section><!--end .counterup_area-->
+<!--===========================
+        End CounterUp
+===========================-->
